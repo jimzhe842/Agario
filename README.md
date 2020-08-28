@@ -1,4 +1,4 @@
-A basic agario remake using the python modules: pygame, socket, 
+A basic agario remake using the python modules: pygame, socket, pickle
 
 Created in mid-July (most recent edit 7/17)
 
